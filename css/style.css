@@ -1,0 +1,12 @@
+.title {
+  color: black;
+  width: 200px;
+}
+.title-span-it {
+  background-color: rgb(246, 121, 4);
+  color: white;
+}
+.title-span-go {
+  background-color: black;
+  color: white;
+}
